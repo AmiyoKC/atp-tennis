@@ -10,7 +10,7 @@ Most casual tennis fans and occassional players like me, tend to follow the 4 Gr
 
 #### Dominance Score
 
-While, not an team sport, I  analyzed the performance of individual countries against others and explored whether there is any readily detectable "_halo_" effect in tennis; i.e. does the presence of a few superstars in country raise the level of other players from the country. To do this I constructed a metric which I'll call the Dominance Score. Each country gets a score for every year based on the number of players in the top-10 and the number of weeks spent in the top 10 in given year. 
+While not a team sport, I  analyzed the performance of individual countries against others and explored whether there is any readily detectable "_halo_" effect in tennis; i.e. does the presence of a few superstars in country raise the level of other players from the country. To do this I constructed a metric which I'll call the Dominance Score. Each country gets a score for every year based on the number of players in the top-10 and the number of weeks spent in the top 10 in given year. 
 
 #### Heat Index
 
