@@ -16,4 +16,7 @@ While, not an team sport, I  analyzed the performance of individual countries ag
 
 I find sports rivalries fascinating and wanted to explore the most intense rivalries over time. To measure the intensity of any rivalry, I created another metric - Heat Index. This assigns a score to each pair of players who based on total matches played, win-loss differential and number of years the pair have faced off against each other. 
 
+## Acknowledgement
+
 Finally, the data I used for this analysis is from [Jeff Sackman](https://github.com/JeffSackmann/tennis_atp) who publishes the wonderful tennis blog [TennisAbstract](https://www.tennisabstract.com/blog/)
+This project was done for the NYC Data Science Academy and I thank Vinod Chugani for all his reviews.
