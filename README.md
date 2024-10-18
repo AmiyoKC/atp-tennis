@@ -4,7 +4,7 @@
 Most casual tennis fans and occassional players like me, tend to follow the 4 Grand Slam events annually. However, a lot of tennis gets played all over the world. I performed this analysis to provide a sense of how much tennis gets played annually, on what surfaces and how this has evolved over the years in the Open Era. Open Era is the period post 1968 when professional players were allowed at the 4 Grand Slam events. 
 
 ## Project summary
-[A detailed summary of the project can be found here] (https://docs.google.com/presentation/d/12t6xfvNoKewiHlxgwxEXdtDvAnuL2umso6mRuqbGCAk/edit#slide=id.g2d444c599d1_0_226)
+[A detailed summary of the project can be found here](https://docs.google.com/presentation/d/12t6xfvNoKewiHlxgwxEXdtDvAnuL2umso6mRuqbGCAk/edit#slide=id.g2d444c599d1_0_226)
 
 ### New metrics created
 
