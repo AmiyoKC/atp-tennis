@@ -18,6 +18,6 @@ I find sports rivalries fascinating and wanted to explore the most intense rival
 
 ## Acknowledgement
 
-Finally, the data I used for this analysis is from [Jeff Sackman](https://github.com/JeffSackmann/tennis_atp) who publishes the wonderful tennis blog [TennisAbstract](https://www.tennisabstract.com/blog/)
+Finally, the data I used for this analysis is from [Jeff Sackman](https://github.com/JeffSackmann/tennis_atp) who publishes the wonderful tennis blog [TennisAbstract](https://www.tennisabstract.com/blog/). The data contains win loss record for every match for every ATP tournament played since 1968. There's a rankings file for every decade and a player file with biographical information for every player. 
 
 This project was done for the NYC Data Science Academy and I thank Vinod Chugani for his mentorship.
