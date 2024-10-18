@@ -19,4 +19,5 @@ I find sports rivalries fascinating and wanted to explore the most intense rival
 ## Acknowledgement
 
 Finally, the data I used for this analysis is from [Jeff Sackman](https://github.com/JeffSackmann/tennis_atp) who publishes the wonderful tennis blog [TennisAbstract](https://www.tennisabstract.com/blog/)
+
 This project was done for the NYC Data Science Academy and I thank Vinod Chugani for his mentorship.
